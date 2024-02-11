@@ -3,7 +3,7 @@
     "displayName": "Project Unity",
     "author": "Avant Team",
     "description": "A big-collaboration Mindustry mod created by many authors from the Mindustry modding community.",
-    "version": "v0.0.1",
+    "version": "v0.0.1A",
     "minGameVersion": 136,
     "main": "unity.ProjectUnity",
     "java": true
